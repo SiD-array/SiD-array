@@ -26,7 +26,7 @@
 - Built live stock analysis platform with multi-timeframe charts & SMA indicators.  
 - Deployed with 99.9% uptime, serving 100+ users.  
 
-🔹 [**Movie Recommendation System**](https://github.com/SiD-array/Movie-Recommendation-System)  
+🔹 [**Movie Recommendation System**](https://github.com/SiD-array/movie-recommender)  
 *Python, Scikit-learn, Pandas, NLTK*  
 - Content-based recommender on 5K+ movies with improved preprocessing & accuracy.  
 - Interactive Streamlit app for easy user exploration.  
