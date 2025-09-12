@@ -1,43 +1,55 @@
-# 👋 Hi, I'm Siddharth Bhople  
+# 🚀 Hey there, I'm Siddharth!  
 
-🎓 MS in Computer Science @ Rochester Institute of Technology (Aug '24 – Aug '26)  
-💻 Full-Stack Developer | Machine Learning Enthusiast | Aspiring Software Engineer  
-
----
-
-## 🚀 About Me
-- Passionate about **building scalable web applications** and **intelligent AI systems**  
-- Skilled in **Java, Python, JavaScript, SQL** and modern frameworks  
-- Always exploring intersections of **algorithms, AI, and full-stack development**  
-- Excited about applying knowledge in **real-world software engineering**  
+🎓 MS in Computer Science @ RIT (2024–2026)  
+💻 Full-Stack Developer | Machine Learning Explorer | Aspiring Software Engineer  
+⚡ I love turning ideas into interactive apps & intelligent systems  
 
 ---
 
-## 🛠️ Tech Toolbox
-- **Languages**: Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
-- **Frameworks & Tools**: FastAPI, Streamlit, Bootstrap, Git  
-- **ML/Data**: Scikit-learn, Pandas, NLTK, NumPy  
-- **Databases**: MySQL, PostgreSQL  
+## ✨ About Me
+- 👨‍💻 I enjoy building **scalable web apps** and experimenting with **AI/ML models**  
+- 🌱 Currently exploring **AI-powered dashboards** and **algorithm optimization**  
+- 🧩 Big fan of **solving problems** – whether it’s in code, logic, or life  
+- 🎯 Goal: To craft software that’s **useful, intuitive, and impactful**  
 
 ---
 
-## 🌟 Highlighted Projects
-🔹 **[StockView – Real-time Stock Analysis Dashboard](https://github.com/SiD-array/StockView)**  
-A stock analysis platform with real-time charts, SMA indicators, and 100+ active users.  
+## 🛠 Tech Toolbox
+💡 Here’s what I use to build & break things (sometimes both 😅):  
+
+- **Languages:** Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
+- **Frameworks & Tools:** FastAPI, Streamlit, Bootstrap, Git, JavaFX  
+- **ML/Data:** Scikit-learn, Pandas, NLTK, NumPy  
+- **Databases:** MySQL, PostgreSQL  
+
+---
+
+## 🌟 Featured Projects
+🎨 A few things I’ve been working on:  
+
+🔹 **[StockView – Real-time Stock Dashboard](https://github.com/SiD-array/StockView)**  
+📈 Live stock charts, SMA indicators, and 100+ daily users.  
 
 🔹 **[Movie Recommendation System](https://github.com/SiD-array/Movie-Recommendation-System)**  
-Content-based movie recommender (5K+ movies) with interactive Streamlit interface.  
+🎬 Content-based recommender for 5K+ movies with a fun Streamlit UI.  
 
-🔹 **[PG Life Web Application](https://github.com/SiD-array/PG-Life)**  
-Full-stack housing platform with authentication, city-based search, and responsive UI.  
+🔹 **[PG Life – Housing Web App](https://github.com/SiD-array/PG-Life)**  
+🏠 Full-stack housing platform with authentication, search, and responsive design.  
+
+---
+
+## 🎉 A Little Extra
+- 🏋️ Fitness enthusiast — you’ll often find me lifting weights when I’m not coding  
+- 📊 Fascinated by finance & stock markets (that’s why I built StockView!)  
+- 🌍 Always up for learning something new — tech, trading, or travel  
 
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-bhople/)  
-- 📧 [Email](mailto:sid.work0403@gmail.com)  
-- 🌐 [Portfolio (coming soon)](https://github.com/SiD-array)  
+🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-bhople/)  
+📧 [Email](mailto:sid.work0403@gmail.com)  
+🐙 [GitHub](https://github.com/SiD-array)  
 
 ---
 
-✨ *“Always learning, always building 🚀”*  
+✨ *“Code. Learn. Lift. Repeat. 🚀”*  
