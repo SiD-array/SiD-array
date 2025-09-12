@@ -31,7 +31,7 @@
 - Content-based recommender on 5K+ movies with improved preprocessing & accuracy.  
 - Interactive Streamlit app for easy user exploration.  
 
-🔹 [**PG Life Web Application**](https://github.com/SiD-array/PG-Life)  
+🔹 [**PG Life Web Application**](https://github.com/SiD-array/PGLife)  
 *PHP, MySQL, Bootstrap, JavaScript*  
 - Full-stack housing platform with authentication & city-based search.  
 - Optimized SQL queries → 40% faster load times.  
