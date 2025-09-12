@@ -6,48 +6,38 @@
 ---
 
 ## 🚀 About Me
-- Passionate about **building scalable web applications** and **intelligent AI systems**.  
-- Strong foundation in **Java, Python, JavaScript, SQL**, and modern frameworks.  
-- Always exploring intersections of **AI, algorithms, and full-stack development**.  
+- Passionate about **building scalable web applications** and **intelligent AI systems**  
+- Skilled in **Java, Python, JavaScript, SQL** and modern frameworks  
+- Always exploring intersections of **algorithms, AI, and full-stack development**  
+- Excited about applying knowledge in **real-world software engineering**  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**: Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
-**Frameworks/Tools**: FastAPI, Streamlit, Bootstrap, JavaFX, Git  
-**ML/Data**: NumPy, Pandas, Scikit-learn, NLTK, Recharts  
-**Databases**: MySQL, PostgreSQL  
+## 🛠️ Tech Toolbox
+- **Languages**: Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
+- **Frameworks & Tools**: FastAPI, Streamlit, Bootstrap, Git  
+- **ML/Data**: Scikit-learn, Pandas, NLTK, NumPy  
+- **Databases**: MySQL, PostgreSQL  
 
 ---
 
-## 🌟 Projects
-🔹 [**StockView – Real-time Stock Analysis Dashboard**](https://github.com/SiD-array/StockView)  
-*React, FastAPI, Recharts, TailwindCSS, Python*  
-- Built live stock analysis platform with multi-timeframe charts & SMA indicators.  
-- Deployed with 99.9% uptime, serving 100+ users.  
+## 🌟 Highlighted Projects
+🔹 **[StockView – Real-time Stock Analysis Dashboard](https://github.com/SiD-array/StockView)**  
+A stock analysis platform with real-time charts, SMA indicators, and 100+ active users.  
 
-🔹 [**Movie Recommendation System**](https://github.com/SiD-array/movie-recommender)  
-*Python, Scikit-learn, Pandas, NLTK*  
-- Content-based recommender on 5K+ movies with improved preprocessing & accuracy.  
-- Interactive Streamlit app for easy user exploration.  
+🔹 **[Movie Recommendation System](https://github.com/SiD-array/Movie-Recommendation-System)**  
+Content-based movie recommender (5K+ movies) with interactive Streamlit interface.  
 
-🔹 [**PG Life Web Application**](https://github.com/SiD-array/PGLife)  
-*PHP, MySQL, Bootstrap, JavaScript*  
-- Full-stack housing platform with authentication & city-based search.  
-- Optimized SQL queries → 40% faster load times.  
+🔹 **[PG Life Web Application](https://github.com/SiD-array/PG-Life)**  
+Full-stack housing platform with authentication, city-based search, and responsive UI.  
 
 ---
 
-## 📊 GitHub Stats
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiD-array&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect With Me
+## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-bhople/)  
 - 📧 [Email](mailto:sid.work0403@gmail.com)  
-- 🌐 [Portfolio (coming soon!)](https://github.com/SiD-array)  
+- 🌐 [Portfolio (coming soon)](https://github.com/SiD-array)  
 
 ---
-✨ *"Always learning, always building 🚀"*  
+
+✨ *“Always learning, always building 🚀”*  
