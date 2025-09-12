@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Siddharth!;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
+
 # 🚀 Hey there, I'm Siddharth!  
 
 🎓 MS in Computer Science @ RIT (2024–2026)  
@@ -20,7 +22,14 @@
 - **Languages:** Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
 - **Frameworks & Tools:** FastAPI, Streamlit, Bootstrap, Git, JavaFX  
 - **ML/Data:** Scikit-learn, Pandas, NLTK, NumPy  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
@@ -43,6 +52,7 @@
 - 📊 Fascinated by finance & stock markets (that’s why I built StockView!)  
 - 🌍 Always up for learning something new — tech, trading, or travel  
 
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" />
 ---
 
 ## 📫 Let’s Connect
