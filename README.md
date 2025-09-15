@@ -42,7 +42,7 @@
 🔹 **[Movie Recommendation System](https://github.com/SiD-array/Movie-Recommendation-System)**  
 🎬 Content-based recommender for 5K+ movies with a fun Streamlit UI.  
 
-🔹 **[PG Life – Housing Web App](https://github.com/SiD-array/PG-Life)**  
+🔹 **[PG Life – Housing Web App](https://github.com/SiD-array/PGLife)**  
 🏠 Full-stack housing platform with authentication, search, and responsive design.  
 
 ---
