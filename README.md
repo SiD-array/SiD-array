@@ -39,7 +39,7 @@
 🔹 **[StockView – Real-time Stock Dashboard](https://github.com/SiD-array/StockView)**  
 📈 Live stock charts, SMA indicators, and 100+ daily users.  
 
-🔹 **[Movie Recommendation System](https://github.com/SiD-array/Movie-Recommendation-System)**  
+🔹 **[Movie Recommendation System]([https://github.com/SiD-array/movie-recommender])**  
 🎬 Content-based recommender for 5K+ movies with a fun Streamlit UI.  
 
 🔹 **[PG Life – Housing Web App](https://github.com/SiD-array/PGLife)**  
