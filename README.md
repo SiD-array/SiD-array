@@ -1,65 +1,105 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Siddharth!;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
+<div align="center">
 
-# 🚀 Hey there, I'm Siddharth!  
+# 👋 Siddharth Bhople  
+**M.S. Computer Science @ Rochester Institute of Technology (2024–2026)**  
+**Software Engineer | AI / Machine Learning Engineer**
 
-🎓 MS in Computer Science @ RIT (2024–2026)  
-💻 Full-Stack Developer | Machine Learning Explorer | Aspiring Software Engineer  
-⚡ I love turning ideas into interactive apps & intelligent systems  
+🚀 Actively seeking **Summer 2026 Internships & Co-ops**
 
----
+I build **end-to-end, production-ready systems** that combine  
+clean APIs, scalable backends, modern UIs, and applied machine learning  
+to solve real-world problems with measurable impact.
 
-## ✨ About Me
-- 👨‍💻 I enjoy building **scalable web apps** and experimenting with **AI/ML models**  
-- 🌱 Currently exploring **AI-powered dashboards** and **algorithm optimization**  
-- 🧩 Big fan of **solving problems** – whether it’s in code, logic, or life  
-- 🎯 Goal: To craft software that’s **useful, intuitive, and impactful**  
-
----
-
-## 🛠 Tech Toolbox
-💡 Here’s what I use to build & break things (sometimes both 😅):  
-
-- **Languages:** Python, Java, JavaScript (React, Node.js), C++, SQL, HTML/CSS  
-- **Frameworks & Tools:** FastAPI, Streamlit, Bootstrap, Git, JavaFX  
-- **ML/Data:** Scikit-learn, Pandas, NLTK, NumPy  
-- **Databases:** MySQL, PostgreSQL
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+</div>
 
 ---
 
 ## 🌟 Featured Projects
-🎨 A few things I’ve been working on:  
 
-🔹 **[StockView – Real-time Stock Dashboard](https://github.com/SiD-array/StockView)**  
-📈 Live stock charts, SMA indicators, and 100+ daily users.  
+### 🧬 RNA-Seq Cancer Biomarker Discovery (TCGA)
+**Machine Learning • Bioinformatics • Model Explainability**
 
-🔹 **[Movie Recommendation System](https://github.com/SiD-array/movie-recommender)**  
-🎬 Content-based recommender for 5K+ movies with a fun Streamlit UI.  
+An end-to-end ML pipeline for **multi-class cancer subtype classification** using high-dimensional RNA-seq data, with a strong focus on **interpretability and biomarker discovery**.
 
-🔹 **[PG Life – Housing Web App](https://github.com/SiD-array/PGLife)**  
-🏠 Full-stack housing platform with authentication, search, and responsive design.  
+**Key Contributions**
+- Built and evaluated multi-class ML models on TCGA gene expression datasets  
+- Identified a **biomarker gene panel** using feature importance and filtering  
+- Conducted **pathway enrichment analysis** to validate biological relevance  
+- Deployed results through an interactive web application  
 
----
-
-## 🎉 A Little Extra
-- 🏋️ Fitness enthusiast — you’ll often find me lifting weights when I’m not coding  
-- 📊 Fascinated by finance & stock markets (that’s why I built StockView!)  
-- 🌍 Always up for learning something new — tech, trading, or travel  
-
-<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" />
----
-
-## 📫 Let’s Connect
-🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-bhople/)  
-📧 [Email](mailto:sid.work0403@gmail.com)  
-🐙 [GitHub](https://github.com/SiD-array)  
+🔗 **Repository:** https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery  
 
 ---
 
-✨ *“Code. Learn. Lift. Repeat. 🚀”*  
+### 📈 StockView — Real-Time Stock Analysis Platform
+**Full Stack • Machine Learning • Data Visualization**
+
+A production-style financial analytics platform combining **interactive visualization, anomaly detection, sentiment insights, and ML-based forecasting**.
+
+**Key Contributions**
+- Designed a full-stack system using **React, Vite, Recharts, FastAPI**  
+- Implemented technical indicators (SMA, RSI, MACD, Bollinger Bands, ATR)  
+- Added **Z-score anomaly detection** and predictive modeling overlays  
+- Deployed with **99.9% uptime**, supporting real users  
+
+🔗 **Repository:** https://github.com/SiD-array/StockView  
+
+---
+
+### 🎬 Movie Recommendation System
+**Machine Learning • NLP • Data Engineering**
+
+A content-based recommendation engine delivering fast, personalized movie suggestions at scale.
+
+**Key Contributions**
+- Processed **5,000+ movies** using NLP-based feature extraction  
+- Implemented **CountVectorizer + cosine similarity** for recommendations  
+- Improved recommendation relevance by **18%** via advanced preprocessing  
+- Deployed an interactive **Streamlit application**  
+
+🔗 **Repository:** https://github.com/SiD-array/movie-recommendation-system  
+
+---
+
+## 🧩 Additional Projects
+- 🏠 **PG Life** — Full-stack housing platform with authentication and optimized SQL queries  
+- 🧩 **Sudoku Solver (C#)** — Algorithmic problem-solving with clean object-oriented design  
+
+Explore all repositories ➜ https://github.com/SiD-array?tab=repositories
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Python • Java • JavaScript (React, Node.js) • SQL • C#
+
+**Frontend**  
+React • Vite • Tailwind CSS • Recharts
+
+**Backend & APIs**  
+FastAPI • RESTful Services
+
+**Machine Learning & Data**  
+NumPy • Pandas • scikit-learn • TensorFlow • XGBoost • LightGBM • NLTK
+
+**Databases & Cloud**  
+PostgreSQL • MySQL • Firebase
+
+**Tools**  
+Git & GitHub • Docker (working knowledge) • VS Code
+
+---
+
+## 🎯 What I Focus On
+- Building **deployable systems**, not just notebooks  
+- Writing **modular, scalable, and maintainable code**  
+- Turning data and ML models into **user-facing impact**
+
+---
+
+## 📫 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/siddharth-bhople  
+- 🧠 GitHub: https://github.com/SiD-array  
+
+> If you're hiring for **Software Engineering or AI/ML Engineering roles** and value candidates who can own projects end-to-end, I’d be glad to connect.
