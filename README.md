@@ -1,69 +1,68 @@
 <div align="center">
 
-# 👋 Siddharth Bhople  
-**M.S. Computer Science @ Rochester Institute of Technology (2024–2026)**  
-**Software Engineer | AI / Machine Learning Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Siddharth+Bhople!;Software+Engineer+%7C+AI+%2F+ML+Engineer;Building+end-to-end+production+systems" alt="Typing SVG" />
 
-🚀 Actively seeking **Summer 2026 Internships & Co-ops**
+<br/>
 
-I build **end-to-end, production-ready systems** that combine  
-clean APIs, scalable backends, modern UIs, and applied machine learning  
-to solve real-world problems with measurable impact.
+🎓 <b>M.S. Computer Science @ Rochester Institute of Technology (2024–2026)</b><br/>
+🚀 <b>Actively Seeking Summer/Fall 2026 Internships & Co-ops</b><br/>
+💡 APIs • Full-Stack • Machine Learning • Data-Driven Systems
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/siddharth-bhople/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/SiD-array">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+- I build systems where **data meets software**: ML pipelines → scalable APIs → modern UIs → deployment.
+- I focus on **deployable, real-world projects** (not just notebooks).
+- I care about **clean architecture, scalability, and performance**.
+
+---
+
 ## 🌟 Featured Projects
 
-### 🧬 RNA-Seq Cancer Biomarker Discovery (TCGA)
-**Machine Learning • Bioinformatics • Model Explainability**
-
-An end-to-end ML pipeline for **multi-class cancer subtype classification** using high-dimensional RNA-seq data, with a strong focus on **interpretability and biomarker discovery**.
-
-**Key Contributions**
-- Built and evaluated multi-class ML models on TCGA gene expression datasets  
-- Identified a **biomarker gene panel** using feature importance and filtering  
-- Conducted **pathway enrichment analysis** to validate biological relevance  
-- Deployed results through an interactive web application  
-
-🔗 **Repository:** https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery  
+### 🧬 RNA-Seq Cancer Biomarker Discovery (TCGA) — Top Project  
+**Machine Learning • Bioinformatics • Explainability**  
+- Multi-class cancer subtype classification using RNA-seq gene expression data  
+- Biomarker gene panel discovery via feature importance + filtering  
+- Biological validation using pathway enrichment analysis  
+- Interactive app to explore findings  
+🔗 Repo: https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery
 
 ---
 
-### 📈 StockView — Real-Time Stock Analysis Platform
-**Full Stack • Machine Learning • Data Visualization**
-
-A production-style financial analytics platform combining **interactive visualization, anomaly detection, sentiment insights, and ML-based forecasting**.
-
-**Key Contributions**
-- Designed a full-stack system using **React, Vite, Recharts, FastAPI**  
-- Implemented technical indicators (SMA, RSI, MACD, Bollinger Bands, ATR)  
-- Added **Z-score anomaly detection** and predictive modeling overlays  
-- Deployed with **99.9% uptime**, supporting real users  
-
-🔗 **Repository:** https://github.com/SiD-array/StockView  
+### 📈 StockView — Real-Time Stock Analysis Platform  
+**Full Stack • Machine Learning • Data Visualization**  
+- React + Vite + Recharts + Tailwind frontend  
+- FastAPI backend with real-time stock ingestion  
+- Indicators: SMA, RSI, MACD, Bollinger Bands, ATR  
+- Z-score anomaly detection + prediction overlays  
+🔗 Repo: https://github.com/SiD-array/StockView
 
 ---
 
-### 🎬 Movie Recommendation System
-**Machine Learning • NLP • Data Engineering**
-
-A content-based recommendation engine delivering fast, personalized movie suggestions at scale.
-
-**Key Contributions**
-- Processed **5,000+ movies** using NLP-based feature extraction  
-- Implemented **CountVectorizer + cosine similarity** for recommendations  
-- Improved recommendation relevance by **18%** via advanced preprocessing  
-- Deployed an interactive **Streamlit application**  
-
-🔗 **Repository:** https://github.com/SiD-array/movie-recommendation-system  
+### 🎬 Movie Recommendation System  
+**Machine Learning • NLP • Data Engineering**  
+- Content-based recommender (CountVectorizer + cosine similarity)  
+- Built on 5,000+ movies; improved relevance via preprocessing  
+- Interactive Streamlit application  
+🔗 Repo: https://github.com/SiD-array/movie-recommendation-system
 
 ---
 
-## 🧩 Additional Projects
-- 🏠 **PG Life** — Full-stack housing platform with authentication and optimized SQL queries  
-- 🧩 **Sudoku Solver (C#)** — Algorithmic problem-solving with clean object-oriented design  
+## 🧩 More Projects
+- 🏠 PG Life — Full-stack housing platform with optimized SQL queries  
+- 🧩 Sudoku Solver (C#) — Algorithmic problem-solving & OOP design  
 
 Explore all repositories ➜ https://github.com/SiD-array?tab=repositories
 
@@ -71,35 +70,17 @@ Explore all repositories ➜ https://github.com/SiD-array?tab=repositories
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python • Java • JavaScript (React, Node.js) • SQL • C#
-
-**Frontend**  
-React • Vite • Tailwind CSS • Recharts
-
-**Backend & APIs**  
-FastAPI • RESTful Services
-
-**Machine Learning & Data**  
-NumPy • Pandas • scikit-learn • TensorFlow • XGBoost • LightGBM • NLTK
-
-**Databases & Cloud**  
-PostgreSQL • MySQL • Firebase
-
-**Tools**  
-Git & GitHub • Docker (working knowledge) • VS Code
-
----
-
-## 🎯 What I Focus On
-- Building **deployable systems**, not just notebooks  
-- Writing **modular, scalable, and maintainable code**  
-- Turning data and ML models into **user-facing impact**
+**Languages:** Python • Java • JavaScript • SQL • C#  
+**Frontend:** React • Vite • Tailwind CSS • Recharts  
+**Backend:** FastAPI • REST APIs  
+**ML/Data:** NumPy • Pandas • scikit-learn • TensorFlow • XGBoost • LightGBM • NLTK  
+**Databases/Cloud:** PostgreSQL • MySQL • Firebase  
+**Tools:** Git • GitHub • VS Code • Docker (working knowledge)
 
 ---
 
 ## 📫 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/siddharth-bhople  
-- 🧠 GitHub: https://github.com/SiD-array  
+- LinkedIn: https://www.linkedin.com/in/siddharth-bhople/  
+- GitHub: https://github.com/SiD-array  
 
-> If you're hiring for **Software Engineering or AI/ML Engineering roles** and value candidates who can own projects end-to-end, I’d be glad to connect.
+⭐ If you like my work, feel free to star a repo or reach out!
