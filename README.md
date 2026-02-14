@@ -56,7 +56,7 @@
 - Content-based recommender (CountVectorizer + cosine similarity)  
 - Built on 5,000+ movies; improved relevance via preprocessing  
 - Interactive Streamlit application  
-🔗 Repo: https://github.com/SiD-array/movie-recommendation-system
+🔗 Repo: https://github.com/SiD-array/movie-recommender
 
 ---
 
