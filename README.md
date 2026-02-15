@@ -67,6 +67,46 @@ class SiddharthBhople:
 
 <br/>
 
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Currently Working On
+
+<div align="center">
+
+<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
+<img src="https://img.shields.io/badge/🔥_ACTIVE_PROJECT-Autonomous_Cloud_Governance-667eea?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td>
+
+### 🤖 Autonomous Cloud Governance
+
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
+
+Building a **proactive multi-agent orchestration system** with real-time fiscal governance for autonomous AI workflows.
+
+**🎯 Key Features:**
+- 🔌 **Agentic Circuit Breakers** — Automatic cost-aware intervention
+- 🔄 **Dynamic Model Routing** — Smart LLM selection based on task complexity
+- 💰 **Real-Time Budget Tracking** — Prevent cloud bill shock
+- 🏗️ **MCP Server Integration** — Extensible tool ecosystem
+
+**Tech:** `Python` `LangGraph` `MCP Server` `FinOps` `AI Governance`
+
+<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
+  <img src="https://img.shields.io/badge/Follow_Progress-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
@@ -114,14 +154,15 @@ Real-time stock analysis dashboard with ML predictions, anomaly detection, techn
 </td>
 <td width="50%">
 
-### 🎬 Movie Recommender
-**NLP • Content-Based Filtering • Streamlit**
+### 🎬 CineMatch — Movie Recommender
+**NLP • TF-IDF • Content-Based Filtering**
 
-Content-based movie recommendation system using NLP and cosine similarity. Interactive deployed Streamlit application.
+Netflix-inspired movie recommendation system with **TF-IDF + Cosine Similarity**. Features **4,800+ movies** with bigram support for better accuracy.
 
+[![Demo](https://img.shields.io/badge/🎬_Live_Demo-E50914?style=for-the-badge)](https://cinematch-movie-recommend.streamlit.app)
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/movie-recommender)
 
-`Python` `NLP` `scikit-learn` `Streamlit`
+`Python` `TF-IDF` `scikit-learn` `Streamlit` `TMDB API`
 
 </td>
 </tr>
