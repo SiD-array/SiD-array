@@ -1,86 +1,282 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Siddharth+Bhople!;Software+Engineer+%7C+AI+%2F+ML+Engineer;Building+end-to-end+production+systems" alt="Typing SVG" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Siddharth%20Bhople&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Production-Ready+AI+Systems+%F0%9F%9A%80;From+ML+Pipelines+to+Scalable+APIs+%E2%9A%A1;Turning+Data+into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
 <br/>
 
-🎓 <b>M.S. Computer Science @ Rochester Institute of Technology (2024–2026)</b><br/>
-🚀 <b>Actively Seeking Summer/Fall 2026 Internships & Co-ops</b><br/>
-💡 APIs • Full-Stack • Machine Learning • Data-Driven Systems
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=SiD-array&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/SiD-array?tab=followers">
+  <img src="https://img.shields.io/github/followers/SiD-array?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
+</a>
+<a href="https://github.com/SiD-array?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-14-667eea?style=for-the-badge" alt="Repos"/>
+</a>
 
 <br/><br/>
 
+<!-- Quick Info Cards -->
+<img src="https://img.shields.io/badge/🎓-M.S._Computer_Science_@_RIT_(2024--2026)-1a1b27?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/🚀-Seeking_Summer%2FFall_2026_Internships_&_Co--ops-667eea?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/📍-Rochester,_NY-764ba2?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- Social Links -->
 <a href="https://www.linkedin.com/in/siddharth-bhople/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/SiD-array">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:sb4539@rit.edu">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-- I build systems where **data meets software**: ML pipelines → scalable APIs → modern UIs → deployment.
-- I focus on **deployable, real-world projects** (not just notebooks).
-- I care about **clean architecture, scalability, and performance**.
+```python
+class SiddharthBhople:
+    def __init__(self):
+        self.role = "Software Engineer | AI/ML Engineer"
+        self.education = "M.S. Computer Science @ RIT (2024-2026)"
+        self.location = "Rochester, NY"
+        
+        self.skills = {
+            "languages": ["Python", "Java", "JavaScript", "TypeScript", "SQL", "C#", "F#"],
+            "frontend": ["React", "Vite", "Tailwind CSS", "Recharts"],
+            "backend": ["FastAPI", "Node.js", "REST APIs"],
+            "ml_data": ["scikit-learn", "TensorFlow", "XGBoost", "LangGraph", "Pandas", "NumPy"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+            "tools": ["Docker", "Git", "GitHub Actions", "VS Code"]
+        }
+        
+    def current_focus(self):
+        return [
+            "🤖 Agentic AI & Multi-Agent Systems",
+            "☁️ Cloud Governance & FinOps",
+            "📊 Production ML Pipelines",
+            "🔧 Full-Stack Development"
+        ]
+    
+    def fun_fact(self):
+        return "I build systems where data meets software—not just notebooks!"
+```
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+
+<!-- Project Cards Grid -->
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Autonomous Cloud Governance
+**Agentic AI • Multi-Agent Systems • FinOps**
+
+Proactive multi-agent orchestration with real-time fiscal governance. Features **Agentic Circuit Breakers** and dynamic model routing to prevent cloud bill shock.
+
+[![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Autonomous-Cloud-Governance)
+
+`Python` `LangGraph` `MCP Server` `AI Governance`
+
+</td>
+<td width="50%">
+
+### 🧬 RNA-Seq Cancer Biomarker Discovery
+**Machine Learning • Bioinformatics • Explainability**
+
+ML pipeline analyzing TCGA RNA-Seq data for 5 cancer subtypes. Achieves **100% F1-score**, identifies **50 HGNC-verified biomarkers**.
+
+[![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery)
+
+`Python` `scikit-learn` `Genomics` `TCGA`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 StockView
+**Full Stack • ML Predictions • Data Viz**
+
+Real-time stock analysis dashboard with ML predictions, anomaly detection, technical indicators & sentiment analysis.
+
+[![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/StockView)
+
+`React` `FastAPI` `XGBoost` `Recharts`
+
+</td>
+<td width="50%">
+
+### 🎬 Movie Recommender
+**NLP • Content-Based Filtering • Streamlit**
+
+Content-based movie recommendation system using NLP and cosine similarity. Interactive deployed Streamlit application.
+
+[![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/movie-recommender)
+
+`Python` `NLP` `scikit-learn` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Reddit Big Data Analysis
+**Big Data • Data Engineering • Mining**
+
+Analysis of ~50M Reddit comments. 3-phase approach: relational modeling (PostgreSQL), document-oriented (MongoDB), and Apriori mining.
+
+[![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis)
+
+`Python` `PostgreSQL` `MongoDB` `Data Mining`
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+**Modern Frontend • Responsive Design**
+
+Personal portfolio website showcasing projects, skills, and experience with modern frontend technologies.
+
+[![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/portfolio)
+
+`JavaScript` `React` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🧩 View More Projects</b></summary>
+<br/>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**F-Applications**](https://github.com/SiD-array/F-applications) | Functional Data Science with F# — analysis, cleaning & visualization | `F#` `Deedle` `Plotly.NET` |
+| [**Sudoku Solver**](https://github.com/SiD-array/sudoku-puzzle) | Algorithmic puzzle solver with clean OOP design | `C#` `.NET` |
+| [**PG Life**](https://github.com/SiD-array/PGLife) | Full-stack housing platform with optimized SQL | `PHP` `MySQL` |
+| [**Weather App**](https://github.com/SiD-array/weather-app) | Real-time weather application | `JavaScript` `API` |
+
+</details>
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"> GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiD-array&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiD-array&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiD-array&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SiD-array&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</div>
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-### 🧬 RNA-Seq Cancer Biomarker Discovery (TCGA) — Top Project  
-**Machine Learning • Bioinformatics • Explainability**  
-- Multi-class cancer subtype classification using RNA-seq gene expression data  
-- Biomarker gene panel discovery via feature importance + filtering  
-- Biological validation using pathway enrichment analysis  
-- Interactive app to explore findings  
-🔗 Repo: https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery
+### 💬 Let's Connect!
 
----
+<p>I'm always open to interesting conversations and collaboration opportunities.</p>
 
-### 📈 StockView — Real-Time Stock Analysis Platform  
-**Full Stack • Machine Learning • Data Visualization**  
-- React + Vite + Recharts + Tailwind frontend  
-- FastAPI backend with real-time stock ingestion  
-- Indicators: SMA, RSI, MACD, Bollinger Bands, ATR  
-- Z-score anomaly detection + prediction overlays  
-🔗 Repo: https://github.com/SiD-array/StockView
+<a href="https://www.linkedin.com/in/siddharth-bhople/">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-### 🎬 Movie Recommendation System  
-**Machine Learning • NLP • Data Engineering**  
-- Content-based recommender (CountVectorizer + cosine similarity)  
-- Built on 5,000+ movies; improved relevance via preprocessing  
-- Interactive Streamlit application  
-🔗 Repo: https://github.com/SiD-array/movie-recommender
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
----
+<br/>
 
-## 🧩 More Projects
-- 🏠 PG Life — Full-stack housing platform with optimized SQL queries  
-- 🧩 Sudoku Solver (C#) — Algorithmic problem-solving & OOP design  
+⭐ **Star a repo if you find my work interesting!**
 
-Explore all repositories ➜ https://github.com/SiD-array?tab=repositories
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python • Java • JavaScript • SQL • C#  
-**Frontend:** React • Vite • Tailwind CSS • Recharts  
-**Backend:** FastAPI • REST APIs  
-**ML/Data:** NumPy • Pandas • scikit-learn • TensorFlow • XGBoost • LightGBM • NLTK  
-**Databases/Cloud:** PostgreSQL • MySQL • Firebase  
-**Tools:** Git • GitHub • VS Code • Docker (working knowledge)
-
----
-
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/siddharth-bhople/  
-- GitHub: https://github.com/SiD-array  
-
-⭐ If you like my work, feel free to star a repo or reach out!
+</div>
