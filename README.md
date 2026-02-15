@@ -148,6 +148,7 @@ ML pipeline analyzing TCGA RNA-Seq data for 5 cancer subtypes. Achieves **100% F
 
 Real-time stock analysis dashboard with ML predictions, anomaly detection, technical indicators & sentiment analysis.
 
+[![Demo](https://img.shields.io/badge/📈_Live_Dashboard-00C853?style=for-the-badge)](https://stock-view-ebon.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/StockView)
 
 `React` `FastAPI` `XGBoost` `Recharts`
@@ -173,8 +174,9 @@ Netflix-inspired movie recommendation system with **TF-IDF + Cosine Similarity**
 ### 📊 Reddit Big Data Analysis
 **Big Data • Data Engineering • Mining**
 
-Analysis of ~50M Reddit comments. 3-phase approach: relational modeling (PostgreSQL), document-oriented (MongoDB), and Apriori mining.
+Analysis of **~50M Reddit comments**. 3-phase pipeline: PostgreSQL (relational), MongoDB (document), and Apriori association rule mining.
 
+[![Demo](https://img.shields.io/badge/🔍_Explore_Analysis-FF5722?style=for-the-badge)](https://reddit-comments-may-2015-data-analy.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis)
 
 `Python` `PostgreSQL` `MongoDB` `Data Mining`
