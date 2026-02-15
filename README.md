@@ -8,16 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Production-Ready+AI+Systems+%F0%9F%9A%80;From+ML+Pipelines+to+Scalable+APIs+%E2%9A%A1;Turning+Data+into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=SiD-array&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/SiD-array?tab=followers">
-  <img src="https://img.shields.io/github/followers/SiD-array?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
-</a>
-<a href="https://github.com/SiD-array?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-14-667eea?style=for-the-badge" alt="Repos"/>
-</a>
 
 <br/><br/>
 
@@ -37,7 +27,7 @@
 <a href="https://github.com/SiD-array">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:sb4539@rit.edu">
+<a href="mailto:sid.work0403@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -249,13 +239,6 @@ Personal portfolio website showcasing projects, skills, and experience with mode
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiD-array&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
-
-<br/>
 
 ---
 
