@@ -133,6 +133,7 @@ Proactive multi-agent orchestration with real-time fiscal governance. Features *
 
 ML pipeline analyzing TCGA RNA-Seq data for 5 cancer subtypes. Achieves **100% F1-score**, identifies **50 HGNC-verified biomarkers**.
 
+[![Dashboard](https://img.shields.io/badge/🧬_Interactive_Dashboard-00C853?style=for-the-badge)](https://biomarker-discovery-app.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery)
 
 `Python` `scikit-learn` `Genomics` `TCGA`
@@ -186,6 +187,7 @@ Analysis of ~50M Reddit comments. 3-phase approach: relational modeling (Postgre
 
 Personal portfolio website showcasing projects, skills, and experience with modern frontend technologies.
 
+[![Portfolio](https://img.shields.io/badge/👋_Meet_Siddharth-FF6B6B?style=for-the-badge)](https://sid-array.github.io/portfolio)
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/portfolio)
 
 `JavaScript` `React` `Tailwind CSS`
@@ -264,16 +266,25 @@ Personal portfolio website showcasing projects, skills, and experience with mode
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiD-array&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+
+<!-- GitHub Stats - Using github-readme-stats with cache busting -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SiD-array&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SiD-array&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+</picture>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiD-array&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
+<!-- GitHub Streak Stats -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=SiD-array&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
 
 <br/>
 
+<!-- Contribution Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiD-array&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true"/>
 
 </div>
