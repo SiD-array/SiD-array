@@ -49,6 +49,7 @@ class SiddharthBhople:
             "frontend": ["React", "Vite", "Tailwind CSS", "Recharts"],
             "backend": ["FastAPI", "Node.js", "REST APIs"],
             "ml_data": ["scikit-learn", "TensorFlow", "XGBoost", "LangGraph", "Pandas", "NumPy"],
+            "computer_vision": ["OpenCV", "MediaPipe"],
             "databases": ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
             "tools": ["Docker", "Git", "GitHub Actions", "VS Code"]
         }
@@ -56,9 +57,9 @@ class SiddharthBhople:
     def current_focus(self):
         return [
             "🤖 Agentic AI & Multi-Agent Systems",
+            "👁️ Computer Vision & Accessibility Tech",
             "☁️ Cloud Governance & FinOps",
-            "📊 Production ML Pipelines",
-            "🔧 Full-Stack Development"
+            "📊 Production ML Pipelines"
         ]
     
     def fun_fact(self):
@@ -72,14 +73,18 @@ class SiddharthBhople:
 <div align="center">
 
 <a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
-<img src="https://img.shields.io/badge/🔥_ACTIVE_PROJECT-Autonomous_Cloud_Governance-667eea?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🔥_ACTIVE-Autonomous_Cloud_Governance-667eea?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+&nbsp;
+<a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
+<img src="https://img.shields.io/badge/🔥_ACTIVE-SignLens_ASL_Recognition-764ba2?style=for-the-badge&labelColor=1a1b27"/>
 </a>
 
 <br/><br/>
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### 🤖 Autonomous Cloud Governance
 
@@ -97,6 +102,27 @@ Building a **proactive multi-agent orchestration system** with real-time fiscal 
 
 <a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
   <img src="https://img.shields.io/badge/Follow_Progress-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🤟 SignLens — Real-Time ASL Recognition
+
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
+
+Building a **real-time American Sign Language recognition system** using computer vision and machine learning for live captioning.
+
+**🎯 Key Features:**
+- 🖐️ **MediaPipe Hand Landmarks** — 21-point hand tracking
+- 🔄 **Temporal Smoothing** — 7/10 frame agreement for stability
+- ✋ **Handedness Invariance** — Left/right hand support
+- 🎯 **98% Accuracy** — Across 5 gesture classes
+
+**Tech:** `Python` `OpenCV` `MediaPipe` `scikit-learn` `Random Forest`
+
+<a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
+  <img src="https://img.shields.io/badge/Follow_Progress-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -184,15 +210,14 @@ Analysis of **~50M Reddit comments**. 3-phase pipeline: PostgreSQL (relational),
 </td>
 <td width="50%">
 
-### 🌐 Portfolio Website
-**Modern Frontend • Responsive Design**
+### 🤟 SignLens — ASL Recognition
+**Computer Vision • ML • Accessibility**
 
-Personal portfolio website showcasing projects, skills, and experience with modern frontend technologies.
+Real-time American Sign Language recognition with **98% accuracy**. Uses MediaPipe for hand landmarks and Random Forest for classification with temporal smoothing.
 
-[![Portfolio](https://img.shields.io/badge/👋_Meet_Siddharth-FF6B6B?style=for-the-badge)](https://sid-array.github.io/portfolio)
-[![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/portfolio)
+[![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition)
 
-`JavaScript` `React` `Tailwind CSS`
+`Python` `OpenCV` `MediaPipe` `scikit-learn`
 
 </td>
 </tr>
@@ -208,6 +233,7 @@ Personal portfolio website showcasing projects, skills, and experience with mode
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Portfolio Website**](https://github.com/SiD-array/portfolio) | Modern portfolio showcasing projects & experience — [Live](https://sid-array.github.io/portfolio) | `React` `Tailwind CSS` |
 | [**F-Applications**](https://github.com/SiD-array/F-applications) | Functional Data Science with F# — analysis, cleaning & visualization | `F#` `Deedle` `Plotly.NET` |
 | [**Sudoku Solver**](https://github.com/SiD-array/sudoku-puzzle) | Algorithmic puzzle solver with clean OOP design | `C#` `.NET` |
 | [**PG Life**](https://github.com/SiD-array/PGLife) | Full-stack housing platform with optimized SQL | `PHP` `MySQL` |
@@ -248,6 +274,10 @@ Personal portfolio website showcasing projects, skills, and experience with mode
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
