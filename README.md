@@ -22,13 +22,13 @@
 
 <!-- Social Links -->
 <a href="https://www.linkedin.com/in/siddharth-bhople/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=667eea" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/SiD-array">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=764ba2" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:sid.work0403@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=667eea" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -36,8 +36,6 @@
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-**I am a Software Engineer and AI/ML practitioner currently pursuing my M.S. in Computer Science at RIT. I specialize in building production-ready AI systems, from scalable APIs to robust ML pipelines, with a strong focus on autonomous agentic systems and computer vision.**
 
 ```python
 class SiddharthBhople:
@@ -90,7 +88,7 @@ class SiddharthBhople:
 
 ### 🤖 Autonomous Cloud Governance
 
-<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-667eea?style=flat-square"/>
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
 
 Building a **proactive multi-agent orchestration system** with real-time fiscal governance for autonomous AI workflows.
 
@@ -111,7 +109,7 @@ Building a **proactive multi-agent orchestration system** with real-time fiscal 
 
 ### 🤟 SignLens — Real-Time ASL Recognition
 
-<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-764ba2?style=flat-square"/>
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
 
 Building a **real-time American Sign Language recognition system** using computer vision and machine learning for live captioning.
 
@@ -161,7 +159,7 @@ Proactive multi-agent orchestration with real-time fiscal governance. Features *
 
 ML pipeline analyzing TCGA RNA-Seq data for 5 cancer subtypes. Achieves **100% F1-score**, identifies **50 HGNC-verified biomarkers**.
 
-[![Dashboard](https://img.shields.io/badge/🧬_Interactive_Dashboard-1a1b27?style=for-the-badge&logoColor=667eea)](https://biomarker-discovery-app.vercel.app)
+[![Dashboard](https://img.shields.io/badge/🧬_Interactive_Dashboard-00C853?style=for-the-badge)](https://biomarker-discovery-app.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery)
 
 `Python` `scikit-learn` `Genomics` `TCGA`
@@ -176,7 +174,7 @@ ML pipeline analyzing TCGA RNA-Seq data for 5 cancer subtypes. Achieves **100% F
 
 Real-time stock analysis dashboard with ML predictions, anomaly detection, technical indicators & sentiment analysis.
 
-[![Demo](https://img.shields.io/badge/📈_Live_Dashboard-1a1b27?style=for-the-badge&logoColor=667eea)](https://stock-view-ebon.vercel.app)
+[![Demo](https://img.shields.io/badge/📈_Live_Dashboard-00C853?style=for-the-badge)](https://stock-view-ebon.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/StockView)
 
 `React` `FastAPI` `XGBoost` `Recharts`
@@ -189,7 +187,7 @@ Real-time stock analysis dashboard with ML predictions, anomaly detection, techn
 
 Netflix-inspired movie recommendation system with **TF-IDF + Cosine Similarity**. Features **4,800+ movies** with bigram support for better accuracy.
 
-[![Demo](https://img.shields.io/badge/🎬_Live_Demo-1a1b27?style=for-the-badge&logoColor=764ba2)](https://cinematch-movie-recommend.streamlit.app)
+[![Demo](https://img.shields.io/badge/🎬_Live_Demo-E50914?style=for-the-badge)](https://cinematch-movie-recommend.streamlit.app)
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/movie-recommender)
 
 `Python` `TF-IDF` `scikit-learn` `Streamlit` `TMDB API`
@@ -204,7 +202,7 @@ Netflix-inspired movie recommendation system with **TF-IDF + Cosine Similarity**
 
 Analysis of **~50M Reddit comments**. 3-phase pipeline: PostgreSQL (relational), MongoDB (document), and Apriori association rule mining.
 
-[![Demo](https://img.shields.io/badge/🔍_Explore_Analysis-1a1b27?style=for-the-badge&logoColor=667eea)](https://reddit-comments-may-2015-data-analy.vercel.app)
+[![Demo](https://img.shields.io/badge/🔍_Explore_Analysis-FF5722?style=for-the-badge)](https://reddit-comments-may-2015-data-analy.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis)
 
 `Python` `PostgreSQL` `MongoDB` `Data Mining`
@@ -250,48 +248,48 @@ Real-time American Sign Language recognition with **98% accuracy**. Uses MediaPi
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=667eea)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=667eea)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=667eea)
-![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=667eea)
-![C#](https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=667eea)
-![F#](https://img.shields.io/badge/F%23-1a1b27?style=for-the-badge&logo=fsharp&logoColor=667eea)
-![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=667eea)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=764ba2)
-![Vite](https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=764ba2)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=764ba2)
-![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=764ba2)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=764ba2)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=667eea)
-![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=667eea)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### ML & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=764ba2)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=764ba2)
-![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=764ba2)
-![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=764ba2)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a1b27?style=for-the-badge&logo=xgboost&logoColor=764ba2)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langchain&logoColor=764ba2)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
 ### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=667eea)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-1a1b27?style=for-the-badge&logo=google&logoColor=667eea)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=764ba2)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=764ba2)
-![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=764ba2)
-![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=764ba2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=667eea)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=667eea)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=667eea)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=667eea)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -310,13 +308,6 @@ Real-time American Sign Language recognition with **98% accuracy**. Uses MediaPi
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
 </picture>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SiD-array&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=7"/>
-</a>
 
 <br/>
 
