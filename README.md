@@ -37,6 +37,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
+I'm Siddharth, a **Software Engineer & AI/ML Engineer** focused on shipping production-ready intelligent systems—from real-time computer vision to cost-aware multi-agent workflows. I'm currently pursuing my M.S. in Computer Science at RIT (2024–2026) and open to **Summer/Fall 2026 internships and co-ops** in backend, ML, and AI infrastructure roles.
+
 ```python
 class SiddharthBhople:
     def __init__(self):
@@ -90,7 +92,7 @@ class SiddharthBhople:
 
 <img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
 
-Building a **proactive multi-agent orchestration system** with real-time fiscal governance for autonomous AI workflows.
+Building a **proactive multi-agent orchestration system** with real-time fiscal governance to prevent cloud bill shock in autonomous AI workflows.
 
 **🎯 Key Features:**
 - 🔌 **Agentic Circuit Breakers** — Automatic cost-aware intervention
@@ -111,15 +113,15 @@ Building a **proactive multi-agent orchestration system** with real-time fiscal 
 
 <img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
 
-Building a **real-time American Sign Language recognition system** using computer vision and machine learning for live captioning.
+Building a **real-time American Sign Language action recognition system** that captures webcam video, extracts multi-hand 3D hand landmarks with MediaPipe, and runs a sliding-window LSTM over 30-frame sequences.
 
 **🎯 Key Features:**
-- 🖐️ **MediaPipe Hand Landmarks** — 21-point hand tracking
-- 🔄 **Temporal Smoothing** — 7/10 frame agreement for stability
-- ✋ **Handedness Invariance** — Left/right hand support
-- 🎯 **98% Accuracy** — Across 5 gesture classes
+- 🖐️ **Multi-hand 3D Hand Landmarks** — Robust tracking with MediaPipe
+- ⏱️ **Sliding-Window LSTM** — 30-frame temporal context for smoother predictions
+- 📚 **WLASL100 Vocabulary Ready** — Designed to scale to 100+ ASL signs
+- ♿ **Accessibility-Focused UX** — Built for live captioning and assistive interfaces
 
-**Tech:** `Python` `OpenCV` `MediaPipe` `scikit-learn` `Random Forest`
+**Tech:** `Python` `OpenCV` `MediaPipe` `LSTM` `Time-Series Modeling`
 
 <a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
   <img src="https://img.shields.io/badge/Follow_Progress-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -145,7 +147,7 @@ Building a **real-time American Sign Language recognition system** using compute
 ### 🤖 Autonomous Cloud Governance
 **Agentic AI • Multi-Agent Systems • FinOps**
 
-Proactive multi-agent orchestration with real-time fiscal governance. Features **Agentic Circuit Breakers** and dynamic model routing to prevent cloud bill shock.
+Proactive multi-agent orchestration with real-time fiscal governance for autonomous workflows. Features **Agentic Circuit Breakers** and dynamic model routing to prevent cloud bill shock.
 
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Autonomous-Cloud-Governance)
 
@@ -213,11 +215,11 @@ Analysis of **~50M Reddit comments**. 3-phase pipeline: PostgreSQL (relational),
 ### 🤟 SignLens — ASL Recognition
 **Computer Vision • ML • Accessibility**
 
-Real-time American Sign Language recognition with **98% accuracy**. Uses MediaPipe for hand landmarks and Random Forest for classification with temporal smoothing.
+Real-time American Sign Language action recognition using multi-hand 3D landmarks and a sliding-window LSTM over 30-frame sequences, designed to scale to the WLASL100 vocabulary.
 
 [![Repo](https://img.shields.io/badge/View_Repo-764ba2?style=for-the-badge&logo=github)](https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition)
 
-`Python` `OpenCV` `MediaPipe` `scikit-learn`
+`Python` `OpenCV` `MediaPipe` `LSTM` `Time-Series Modeling`
 
 </td>
 </tr>
