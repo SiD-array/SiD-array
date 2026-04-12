@@ -53,7 +53,7 @@ class SiddharthBhople:
             "ml_data": ["scikit-learn", "TensorFlow", "XGBoost", "LangGraph", "Pandas", "NumPy"],
             "computer_vision": ["OpenCV", "MediaPipe"],
             "databases": ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-            "tools": ["Docker", "Git", "GitHub Actions", "VS Code"]
+            "tools": ["Docker", "AWS", "Git", "GitHub Actions", "VS Code"]
         }
         
     def current_focus(self):
@@ -70,43 +70,24 @@ class SiddharthBhople:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Currently Working On
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> In focus
+
+<p align="center">Recently shipped and active development.</p>
 
 <div align="center">
 
-<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
-<img src="https://img.shields.io/badge/🔥_ACTIVE-Autonomous_Cloud_Governance-667eea?style=for-the-badge&labelColor=1a1b27"/>
-</a>
-&nbsp;
 <a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
 <img src="https://img.shields.io/badge/🔥_ACTIVE-SignLens_ASL_Recognition-764ba2?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+&nbsp;
+<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
+<img src="https://img.shields.io/badge/✅_COMPLETED-Autonomous_Cloud_Governance-667eea?style=for-the-badge&labelColor=1a1b27"/>
 </a>
 
 <br/><br/>
 
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 Autonomous Cloud Governance
-
-<img align="right" width="100" src="https://img.shields.io/badge/STATUS-In_Progress-00C853?style=flat-square"/>
-
-Building a **proactive multi-agent orchestration system** with real-time fiscal governance to prevent cloud bill shock in autonomous AI workflows.
-
-**🎯 Key Features:**
-- 🔌 **Agentic Circuit Breakers** — Automatic cost-aware intervention
-- 🔄 **Dynamic Model Routing** — Smart LLM selection based on task complexity
-- 💰 **Real-Time Budget Tracking** — Prevent cloud bill shock
-- 🏗️ **MCP Server Integration** — Extensible tool ecosystem
-
-**Tech:** `Python` `LangGraph` `MCP Server` `FinOps` `AI Governance`
-
-<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
-  <img src="https://img.shields.io/badge/Follow_Progress-667eea?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
 <td width="50%">
 
 ### 🤟 SignLens — Real-Time ASL Recognition
@@ -125,6 +106,30 @@ Building a **real-time American Sign Language action recognition system** that c
 
 <a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
   <img src="https://img.shields.io/badge/Follow_Progress-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🤖 Autonomous Cloud Governance
+
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-Completed-2196F3?style=flat-square"/>
+
+**Budget-Aware AI Squad** — a completed **multi-agent orchestration** stack with **real-time fiscal governance**: circuit breakers, cost forecasting, and complexity-aware routing (including frugal **Ollama** paths) so autonomous workflows avoid runaway spend. Validated against **live AWS** (S3) in addition to **LocalStack** simulation; includes a **Cyber-FinOps** interactive showcase on Vercel.
+
+**🎯 Highlights:**
+- 🛡️ **Agentic Circuit Breakers** — Halt recursive agent work before budgets are exceeded
+- 🔀 **Complexity-Aware Dynamic Routing** — Route low-complexity tasks to local SLMs when budgets are tight
+- 📉 **Historical Cost Feedback** — Smooths simulated spend forecasts using past variance
+- 📈 **Telemetry & Savings** — UCST-style tracking and logged savings from frugal routing
+
+**Tech:** `Python` `Ollama` `LocalStack` `AWS (S3)` `React` `Vite` `TypeScript` `FinOps`
+
+<a href="https://autonomous-cloud-governance.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Showcase-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/SiD-array/Autonomous-Cloud-Governance">
+  <img src="https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -147,11 +152,12 @@ Building a **real-time American Sign Language action recognition system** that c
 ### 🤖 Autonomous Cloud Governance
 **Agentic AI • Multi-Agent Systems • FinOps**
 
-Proactive multi-agent orchestration with real-time fiscal governance for autonomous workflows. Features **Agentic Circuit Breakers** and dynamic model routing to prevent cloud bill shock.
+**Budget-Aware AI Squad** — proactive governance for agentic cloud workloads: **Agentic Circuit Breakers**, complexity-aware routing to **Ollama** when budgets are stressed, simulated and historical cost signals, plus **live AWS** validation. **Completed** with an interactive **React + Vite** showcase deployed on Vercel.
 
+[![Live Showcase](https://img.shields.io/badge/Live_Showcase-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://autonomous-cloud-governance.vercel.app/)
 [![Repo](https://img.shields.io/badge/View_Repo-667eea?style=for-the-badge&logo=github)](https://github.com/SiD-array/Autonomous-Cloud-Governance)
 
-`Python` `LangGraph` `MCP Server` `AI Governance`
+`Python` `Ollama` `LocalStack` `AWS` `React` `Vite` `TypeScript` `FinOps`
 
 </td>
 <td width="50%">
@@ -290,6 +296,7 @@ Real-time American Sign Language action recognition using multi-hand 3D landmark
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
