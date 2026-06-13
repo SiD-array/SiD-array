@@ -189,17 +189,18 @@ class SiddharthBhople:
 </td>
 <td width="50%" valign="top">
 
-### 🧱 Array-Operations-in-C
+### 🧬 RNA-Seq Cancer Biomarker Discovery
 
-<img align="right" src="https://img.shields.io/badge/Status-Foundation-9E9E9E?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Status-Shipped-2196F3?style=flat-square"/>
 
-**Foundational data structures** — dynamic arrays, linked lists, stacks, and queues from scratch in C with clean abstractions and rigorous testing.
+**ML pipeline** analyzing TCGA RNA-Seq data for 5 cancer subtypes — **100% F1-score**, **50 HGNC-verified biomarkers**, and pathway validation via gProfiler.
 
-`C` `Data Structures` `Algorithms`
+`Python` `scikit-learn` `Genomics` `TCGA`
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/📂_Repository-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiD-array/Array-Operations-in-C)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://biomarker-discovery-app.vercel.app)
+[![Repo](https://img.shields.io/badge/📂_Repository-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery)
 
 </td>
 </tr>
@@ -216,7 +217,6 @@ class SiddharthBhople:
 | Project | Description |
 |:--------|:------------|
 | [**Portfolio**](https://github.com/SiD-array/portfolio) | Modern portfolio — [Live](https://sid-array.github.io/portfolio/) |
-| [**RNA-Seq Cancer Biomarker Discovery**](https://github.com/SiD-array/rna-seq-cancer-biomarker-discovery) | TCGA RNA-Seq ML pipeline — [Dashboard](https://biomarker-discovery-app.vercel.app) |
 | [**F# Applications in Data Science**](https://github.com/SiD-array/F-applications) | Functional data science with F# & .NET |
 | [**Reddit Big Data Analytics**](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis) | ~50M comment analysis pipeline |
 | [**CineMatch**](https://github.com/SiD-array/movie-recommender) | Content-based movie recommender |
