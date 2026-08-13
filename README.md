@@ -229,12 +229,8 @@ class SiddharthBhople:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SiD-array&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=667eea&icon_color=764ba2&ring_color=667eea"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiD-array&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=667eea"/>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com/?user=SiD-array&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=SiD-array&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&title_color=667eea&icon_color=764ba2&ring_color=667eea"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SiD-array&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=667eea"/>
 
 <br/>
 
