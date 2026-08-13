@@ -124,6 +124,10 @@ class SiddharthBhople:
 
 <div align="center">
 
+<a href="https://github.com/SiD-array/SensorLens">
+  <img src="https://img.shields.io/badge/🔧_CURRENT-SensorLens-667eea?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+&nbsp;
 <a href="https://github.com/SiD-array/SignLens-RealTime-ASL-Recognition">
   <img src="https://img.shields.io/badge/⏳_IN_PROGRESS-SignLens_ASL-764ba2?style=for-the-badge&labelColor=1a1b27"/>
 </a>
@@ -202,6 +206,39 @@ class SiddharthBhople:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 SensorLens
+
+<img align="right" src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square"/>
+
+**Domain-agnostic sensor diagnostics** for appliance engineering — ingest Excel test runs, align mismatched channels, and compare waveforms with Pearson correlation and Dynamic Time Warping.
+
+`TypeScript` `React` `FastAPI` `SciPy` `DTW`
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/📂_Repository-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiD-array/SensorLens)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 F# Applications in Data Science
+
+<img align="right" src="https://img.shields.io/badge/Status-Shipped-2196F3?style=flat-square"/>
+
+**Functional data science** in F#/.NET — immutable pipelines, feature engineering, and interactive Plotly.NET visualizations for real analytical workflows.
+
+`F#` `.NET` `Deedle` `Plotly.NET`
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://f-applications.vercel.app)
+[![Repo](https://img.shields.io/badge/📂_Repository-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiD-array/F-applications)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -215,9 +252,9 @@ class SiddharthBhople:
 | Project | Description |
 |:--------|:------------|
 | [**Portfolio**](https://github.com/SiD-array/portfolio) | Personal site — [Live](https://sid-array.github.io/portfolio/) |
-| [**F# Applications in Data Science**](https://github.com/SiD-array/F-applications) | Functional data science with F# & .NET |
-| [**Reddit Big Data Analytics**](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis) | ~50M comment analysis pipeline — [Live](https://reddit-comments-may-2015-data-analy.vercel.app) |
-| [**CineMatch**](https://github.com/SiD-array/movie-recommender) | Content-based movie recommender — [Live](https://cinematch-movie-recommend.streamlit.app) |
+| [**Reddit Big Data Analytics**](https://github.com/SiD-array/Reddit-Comments-May-2015-Data-Analysis) | ~50M-comment pipeline (PostgreSQL, MongoDB, Apriori) — [Live](https://reddit-comments-may-2015-data-analy.vercel.app) |
+| [**CineMatch**](https://github.com/SiD-array/movie-recommender) | Content-based recommender, 4,800+ movies — [Live](https://cinematch-movie-recommend.streamlit.app) |
+| [**Sudoku Solver**](https://github.com/SiD-array/sudoku-puzzle) | C#/.NET solver with clean OOP architecture |
 
 </details>
 
