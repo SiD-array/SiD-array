@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:667eea,100:764ba2&height=185&section=header&text=Siddharth%20Bhople&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26%20ML%20%7C%20MS%20CS%20%40%20RIT%20'27&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:667eea,100:764ba2&height=185&section=header&text=Siddharth%20Bhople&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26amp%3B%20ML%20%7C%20MS%20CS%20%40%20RIT%20'27&descAlignY=60&descSize=16"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=667EEA&center=true&vCenter=true&repeat=true&width=760&height=44&lines=Software+Engineering+%26+Applied+AI+%E2%9A%A1;Ex-AI%2FML+Intern+%40+BSH+(Bosch+Group)+%7C+DAAD+RISE+Scholar+%F0%9F%8C%8D;Full-Stack+ML%2C+Multi-Agent+Systems+%26+Telemetry+Analytics+%F0%9F%9A%80;Exploring+Full-Time+SWE+%2F+AI+%2F+ML+Roles+(US)+%F0%9F%92%BC" alt="Typing SVG"/>
